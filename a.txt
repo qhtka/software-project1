@@ -1,3 +1,0 @@
-It is a first file for GIT.
-Add a Line
-Add one more line.
